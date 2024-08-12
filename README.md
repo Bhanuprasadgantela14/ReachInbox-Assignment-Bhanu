@@ -14,9 +14,9 @@ This repository contains the code for Reachinbox frontend App using React with T
 - React
 - Tailwind css
 
-## Screencast
+## Demo Video :- 
+https://www.loom.com/share/d8838ff6b327485b9de229dd19921b75?sid=16090086-3e0c-4cd4-8c42-0b3ef1fa16c4
 
-**[Video Demo of the Application](https://www.loom.com/share/d8838ff6b327485b9de229dd19921b75?sid=16090086-3e0c-4cd4-8c42-0b3ef1fa16c4).**
 
 # How to Run <br/>
 
